@@ -1,0 +1,50 @@
+{
+  "item": {
+    "id": "979813957261",
+    "restype": "watchface",
+    "name": "Modular",
+    "description": "MODULAR_橘色模块栅格表盘_CMF_重制\n\n原创_材质和节奏让抽象的时间可感知 时间总是抽象的，... \n\nCMF系列的重制表盘, 橘色竖条计小时, 灰色细纹计分钟, 点阵小时数字, 息屏只留暗橘点阵\n欢迎在小红书关注我 @叫我Brin就好, 我会主要在 astrobox 平台更新资源\n后续会通过与astrobox内嵌的爱发电平台更新付费表盘的资源",
+    "preview": [
+      "media/03-预览-模块海报.png",
+      "media/04-预览-浅灰产品.png"
+    ],
+    "icon": "media/01-图标-1比1.png",
+    "cover": "media/02-封面-3比2.png",
+    "author": [
+      {
+        "name": "brin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "小红书中的介绍",
+      "url": "https://xhslink.cn/o/6cSGqWtYpEa",
+      "icon": "article"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "0.0.0",
+      "file_name": "downloads/Modular.bin",
+      "versionCode": 0
+    },
+    "xmb10nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Modular.bin",
+      "versionCode": 0
+    },
+    "xmb11": {
+      "version": "0.0.0",
+      "file_name": "downloads/Modular.bin",
+      "versionCode": 0
+    },
+    "xmb11nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/Modular.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
